@@ -9,6 +9,7 @@ namespace Tests.Unit
         public void Should_be_true()
         {
             Assert.That(true, Is.EqualTo(false));
+            
         }
     }
 }
